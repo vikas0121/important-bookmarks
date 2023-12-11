@@ -83,6 +83,7 @@
 39. Apache Hadoop - Distributed File System - https://lnkd.in/dHsQu9FN
 40. Apache Kafka - Event Bus - https://lnkd.in/dyxuKbMb
 41. Apache Flink - https://lnkd.in/dn_gMvaR
+42. Maglev: A Fast and Reliable Software Network Load Balancer - https://media.licdn.com/dms/document/media/D561FAQF_KIvtA8POhQ/feedshare-document-pdf-analyzed/0/1702277625362?e=1703116800&v=beta&t=ovfz-5wP_ywIUzwd4BmZJhg_4UTZEaGsEDxSZAlweSg
 
 ## 30 Blogs to learn 30 System Design Concepts:
 
@@ -145,3 +146,4 @@
 29) Distributed Locking: https://lnkd.in/gRxNJwWE
 
 30) Checksum: https://lnkd.in/ghNc5pfn
+
