@@ -40,6 +40,10 @@
 24. Elastic Search Time-Based Querying: https://lnkd.in/d_QvUr7Y
 25. Elastic Search Aggregation: https://lnkd.in/dHVzGejb
 
+Discord
+
+26. how-discord-stores-trillions-of-messages - https://discord.com/blog/how-discord-stores-trillions-of-messages
+
 ## Updated list of engineering papers worth reading.
 
 1. Google File System - https://lnkd.in/d2-wnyqZ
