@@ -1,4 +1,4 @@
-## # 20 Excellent Database Engineering Blogs, grouped by topic:
+## 20 Excellent Database Engineering Blogs, grouped by topic:
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐑𝐞𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧
 
