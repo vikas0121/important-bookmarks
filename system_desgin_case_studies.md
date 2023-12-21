@@ -1,5 +1,24 @@
 #### system design, learn these case studies:
+1. URL shortener or TinyURL: https://lnkd.in/gJPWZsX3
 
+2. Social media app like Twitter: https://lnkd.in/guParNhY
+
+3. File sharing service like Dropbox: https://lnkd.in/gnSQ6rAd
+
+4. Video streaming service like Netflix: https://lnkd.in/gnHSyCj8
+
+5. Autocomplete feature of Google: https://lnkd.in/g3VFcaYN
+
+6. Messaging app like WhatsApp: https://lnkd.in/g5zJa_4W
+
+7. Online document editor like Google docs: https://lnkd.in/gBvztEqV
+
+8. Proximity service like Uber: https://lnkd.in/grtPbr6k
+
+9. Hotel booking service like Airbnb: https://lnkd.in/gWjrGwCM
+
+10. Web crawler: https://lnkd.in/gTkfCH8U
+    
 11) Gaming Leaderboard https://lnkd.in/edfTDq5R
 
 10) Real-Time Live Comments https://lnkd.in/e8g3dZ2i
